@@ -45,9 +45,7 @@ export default function Hero() {
           <motion.p
             className="text-base text-muted-foreground max-w-3xl mx-auto text-balance leading-relaxed"
             variants={itemVariants}
-          >
-            Building responsive, scalable web applications with modern technologies. Experienced in React, Next.js,
-            Node.js, and databases. Passionate about clean code and user-focused solutions.
+          >Building modern, fast, and user-friendly web experiences with clean code and thoughtful design.
           </motion.p>
 
           <motion.div className="flex flex-col sm:flex-row gap-4 justify-center pt-4" variants={itemVariants}>
