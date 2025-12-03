@@ -70,7 +70,7 @@ export default function About() {
             </p>
 
             <p className="text-lg text-muted-foreground leading-relaxed">
-            Beyond coding, I enjoy journaling, exploring tech ideas, learning new technologies, and improving my languages speaking skills. 
+            Beyond coding, I enjoy journaling, exploring tech ideas, learning new technologies, and improving my speaking skills in different languages. 
             I also love watching tech content, creating side projects, and continuously pushing myself to grow as a developer.
             </p>
 
