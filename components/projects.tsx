@@ -15,7 +15,7 @@ export default function Projects() {
         "Deployed scalable containers with Docker & Kubernetes achieving 99% uptime",
         "Full-stack marketplace with real-time features",
       ],
-      github: "https://github.com/Saroath/UCraft.lk",
+      github: "https://github.com/Nadun-Kaveesha/UCRAFT.LK",
       liveLink: null,
     },
     {
@@ -43,13 +43,13 @@ export default function Projects() {
         "Optimized SQL queries and implemented caching strategies",
         "Enhanced UI/UX improving customer engagement by 50%",
       ],
-      github: "https://github.com/Saroath/ecommerce-website",
+      github: "https://github.com/Saroath/HTML-CSS-JS-Project/tree/master",
       liveLink: null,
     },
     {
       title: "Bookstore RESTful API",
       period: "Feb 2025 – Mar 2025",
-      type: "Personal Project",
+      type: "Academic Project",
       tech: ["Java", "JAX-RS", "JSON", "Postman"],
       description: "REST API with full CRUD operations managing 500+ book records.",
       highlights: [
@@ -57,7 +57,7 @@ export default function Projects() {
         "Validated API functionality and compliance via Postman testing",
         "Managed 500+ book records with JSON requests/responses",
       ],
-      github: "https://github.com/Saroath/bookstore-api",
+      github: "https://github.com/Saroath/Java_Projects",
       liveLink: null,
     },
   ]

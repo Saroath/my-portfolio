@@ -60,19 +60,18 @@ export default function About() {
             className="space-y-6"
           >
             <p className="text-lg text-muted-foreground leading-relaxed">
-              Highly motivated Computer Science undergraduate with hands-on experience in designing, developing, and
-              testing software applications.
+            Computer Science undergraduate and aspiring Software Engineer with strong skills in Java, Python, JavaScript, React.js, Node.js, and SQL.
+             I have hands-on experience building clean, responsive, and user-focused applications, and I enjoy working across both frontend and backend development.
             </p>
 
             <p className="text-lg text-muted-foreground leading-relaxed">
-              Skilled in Java, JavaScript, Python, React, Next.js, Node.js, and SQL, with a strong foundation in data
-              structures, algorithms, and full-stack development principles.
+            I’m confident in designing scalable system architectures, integrating RESTful APIs, optimizing database queries, and applying software engineering principles such as OOP, MVC, version control, and Agile practices.
+            I’m currently strengthening my full-stack development skills using modern frameworks and tools, and working on projects that challenge my problem-solving and debugging abilities.
             </p>
 
             <p className="text-lg text-muted-foreground leading-relaxed">
-              Experienced in building responsive UIs, developing secure APIs, working with databases, and collaborating
-              in Agile environments. Passionate about writing clean, maintainable code and contributing to scalable,
-              user-focused software solutions.
+            Beyond coding, I enjoy journaling, exploring tech ideas, learning new technologies, and improving my languages speaking skills. 
+            I also love watching tech content, creating side projects, and continuously pushing myself to grow as a developer.
             </p>
 
             <div className="pt-4">
